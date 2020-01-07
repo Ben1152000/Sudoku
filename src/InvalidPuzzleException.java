@@ -1,0 +1,1 @@
+class InvalidPuzzleException extends Exception {}
